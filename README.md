@@ -7,3 +7,5 @@ parliament-list (without NMPs) - this file has the NMPs removed from the list.
 "scripts" folder contains Python code to generate a parliament seating colour coded to ethnicity, party affiliation and gender.
 
 "images" folder contains generated image files from the scripts mentioned above.
+
+![By Ethnicity](images/Figure_1 - Distribution by Ethnicity.png)
