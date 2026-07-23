@@ -8,4 +8,4 @@ parliament-list (without NMPs) - this file has the NMPs removed from the list.
 
 "images" folder contains generated image files from the scripts mentioned above.
 
-![By Ethnicity](images/Figure_1 - Distribution by Ethnicity.png)
+![By Ethnicity](./images/Figure_1 - Distribution by Ethnicity.png)
